@@ -1,0 +1,65 @@
+[
+	{
+		"title": "Company",
+		"links": [
+			{
+				"text": "Home",
+				"url": "https://hybridchain.ai/"
+			},
+			{
+				"text": "Whitepaper",
+				"url": "https://hybridchain.ai/whitepaper.pdf"
+			},
+			{
+				"text": "Documentation",
+				"url": "https://docs.hybridchain.ai"
+			},
+			{
+				"text": "Brand assets",
+				"url": "https://docs.hybridchain.ai/brand-asset"
+			},
+			{
+				"text": "Term of service",
+				"url": "https://docs.hybridchain.ai/terms-of-service"
+			}
+		]
+	},
+	{
+		"title": "Community",
+		"links": [
+			{
+				"text": "API docs",
+				"url": "https://api.hybridchain.ai"
+			},
+			{
+				"text": "Knowledge base",
+				"url": "https://docs.hybridchain.ai"
+			},
+			{
+				"text": "Network status",
+				"url": "https://info.hybridchain.ai"
+			},
+			{
+				"text": "Facebook",
+				"url": "https://web.facebook.com/HybridChainSG"
+			}
+		]
+	},
+	{
+		"title": "Product",
+		"links": [
+			{
+				"text": "Swap & Trade",
+				"url": "https://ecodefi.app"
+			},
+			{
+				"text": "Validator System",
+				"url": "https://validator.hybdridchain.ai"
+			},
+			{
+				"text": "Wallet & Apps",
+				"url": "https://apps.hybridchain.ai"
+			}
+		]
+	}
+]
