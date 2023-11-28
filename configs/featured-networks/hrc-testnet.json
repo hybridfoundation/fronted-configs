@@ -8,13 +8,13 @@
     "title": "Hybrid Chain Mainnet",
     "url": "https://mainnet.hybridchain.ai/",
     "group": "Mainnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/base.svg"
+    "icon": "https://raw.githubusercontent.com/hybridfoundation/fronted-configs/main/configs/network-icons/hybrid.svg"
 },
 {
     "title": "Hybrid Chain Testnet",
     "url": "https://testnet.hybridchain.io/",
     "group": "Testnets",
-    "icon": "https://raw.githubusercontent.com/blockscout/frontend-configs/main/configs/network-icons/rsk.svg"
+    "icon": "https://raw.githubusercontent.com/hybridfoundation/fronted-configs/main/configs/network-icons/hybrid.svg"
 },
 {
     "title": "Sepolia",
